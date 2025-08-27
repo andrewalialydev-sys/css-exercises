@@ -1,5 +1,4 @@
-.text1and5,
-.cooler {
+.text1and5 {
     background-color:hsl(351, 100%, 86%);
     font-family: Verdana, sans-serif;
 }
@@ -18,3 +17,6 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+/* for "text4" i could of used the same class element
+ since font-size is the same as "text3" */
