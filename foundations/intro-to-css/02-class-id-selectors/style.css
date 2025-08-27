@@ -1,6 +1,11 @@
-.text1and5 {
+.text1and5,
+.cooler {
     background-color:hsl(351, 100%, 86%);
     font-family: Verdana, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
 }
 
 #text2 {
